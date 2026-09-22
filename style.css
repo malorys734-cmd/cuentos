@@ -104,3 +104,27 @@ footer p {
     font-size: 16px;
     text-align: center;
 }
+
+
+aside {
+    background-color: aquamarine;
+    width: 180px;
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 0 3px 8px rgba(0, 0, 0, 0.2);
+
+    position: fixed;
+    right: 20px;
+    bottom: 20px;
+}
+
+aside h3 {
+    color: #5a189a;
+    margin-top: 0;
+}
+
+aside p {
+    font-size: 14px;
+    text-align: center;
+    margin: 5px;
+}
